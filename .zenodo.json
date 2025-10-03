@@ -22,7 +22,7 @@
     {
       "relation": "isSupplementTo",
       "identifier": "https://eerie-project.eu/",
-      "resource_type": "project"
+      "resource_type": "publication-article"
     }
   ],
   "grants": [
