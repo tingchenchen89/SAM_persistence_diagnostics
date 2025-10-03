@@ -11,7 +11,7 @@
     }
   ],
   "description": "This repository contains code for diagnosing key aspects of Southern Annular Mode (SAM) dynamics, including SAM persistence, westerly jet location, eddy–mean flow feedback, and the impact of wind-stress friction on SAM. The diagnostics and figures produced here are used in the following study: Chen, T.-C., Goosse, H., Aengenheyster, M., Strommen, K., Roberts, C., Roberts, M., Ghosh, R., von Storch, J.-S., and Libera, S.:Southern Annular Mode Persistence and Westerly Jet: A Reassessment Using High-Resolution Global Models, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2025-666, 2025",
-  "license": "CC BY 4.0",
+  "license": "CC-BY-4.0",
   "keywords": [
     "EERIE",
     "Southern Annular Mode persistence",
@@ -21,7 +21,8 @@
   "related_identifiers": [
     {
       "relation": "isSupplementTo",
-      "identifier": "https://eerie-project.eu/"
+      "identifier": "https://eerie-project.eu/",
+      "resource_type": "project"
     }
   ],
   "grants": [
